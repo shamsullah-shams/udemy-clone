@@ -1,12 +1,12 @@
 import React from "react";
 import Navbar from "../../components/UI/Header/Header";
-
+import "./Signin.css";
 
 const Signin = () => {
     return (
         <div>
             <Navbar />
-            <p>Sign IN</p>
+            <p className="si">Sign IN</p>
         </div>
     );
 };
