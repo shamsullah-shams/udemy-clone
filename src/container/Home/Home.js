@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import Header from "../../components/UI/Header/Header";
-import image1 from "../../assets/pic1.jpg";
 import Navbar from "../../components/UI/Navbar/Navbar";
 import CourseComponent from "../../components/CourseComponent/CourseComponent";
 import image2 from "../../assets/python1.jpeg";

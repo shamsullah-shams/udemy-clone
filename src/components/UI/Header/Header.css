@@ -17,25 +17,24 @@
 
 .SearchBar {
     border: 1px solid rgb(180, 177, 177);
+    background-color: rgb(250, 248, 248);
     border-radius: 100px;
     padding: 10px 15px;
     width: 40%;
     display: flex;
-    justify-content: space-between;
 }
 
 .SearchBarInput {
     border: none;
     padding: 5px 10px;
-    width: 85%;
-}
-
-.SearchButton {
-    border: none;
-    background-color: rgba(0, 0, 0, 0);
+    width: 95%;
 }
 
 .Links {
     text-decoration: none;
     color: black;
+}
+
+.icon {
+    cursor: pointer;
 }

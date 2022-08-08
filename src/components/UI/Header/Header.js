@@ -4,6 +4,7 @@ import NavItem from "./NavItem/NavItem";
 import { Link } from "react-router-dom";
 import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
 import LanguageIcon from '@mui/icons-material/Language';
+import SearchIcon from '@mui/icons-material/Search';
 import "./Header.css";
 
 const Header = () => {
@@ -19,7 +20,7 @@ const Header = () => {
                 <nav className="NavbarItems">Catagories</nav>
             </NavItem>
             <form className="SearchBar" >
-                <button className="SearchButton">search</button>
+                <SearchIcon className="icon" />
                 <input placeholder="search any thing" className="SearchBarInput" />
             </form>
             <NavItem className="UdemyBussness NavbarItems">udemy Bussness</NavItem>
