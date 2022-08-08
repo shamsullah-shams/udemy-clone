@@ -1,0 +1,22 @@
+.Login {
+    border: 1px solid black;
+    padding: 8px 20px;
+}
+
+.SignUp {
+    background-color: black;
+    color: white;
+    padding: 9px 21px;
+}
+
+.NavbarItems {
+    font-size: 12px;
+    cursor: pointer;
+}
+
+
+.NewNavbarItem {
+    margin: 10px 22px;
+    margin-left: 0;
+    font-weight: bold;
+}

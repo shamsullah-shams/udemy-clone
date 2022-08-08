@@ -1,0 +1,13 @@
+.FormInput {
+    border: 1px solid rgb(180, 177, 177);
+    padding: 15px;
+    width: 100%;
+    border: none;
+
+}
+
+.FormDiv {
+    padding: 10px 16px;
+    border: 1px solid rgb(204, 203, 203);
+    margin: 8px 0;
+}

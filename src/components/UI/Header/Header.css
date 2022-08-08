@@ -1,0 +1,39 @@
+.Navbar {
+    display: flex;
+    padding: 8px 22px;
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    box-shadow: 0 2px 2px rgb(155, 153, 153);
+}
+
+.Logo {
+    width: 90px;
+    cursor: pointer;
+}
+
+.SearchBar {
+    border: 1px solid rgb(180, 177, 177);
+    border-radius: 100px;
+    padding: 10px 15px;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.SearchBarInput {
+    border: none;
+    padding: 5px 10px;
+    width: 85%;
+}
+
+.SearchButton {
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.Links {
+    text-decoration: none;
+    color: black;
+}
