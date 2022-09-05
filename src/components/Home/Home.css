@@ -76,3 +76,13 @@
     font-size: 22px;
     font-weight: bold;
 }
+
+.ExplorePython {
+    border: 1px solid black;
+    padding: 5px 10px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.Features {
+    margin-top: 130px;
+}

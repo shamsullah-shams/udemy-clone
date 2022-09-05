@@ -1,6 +1,6 @@
 import React from "react";
-import Input from "../../components/UI/Input/Input";
-import Navbar from "../../components/UI/Header/Header";
+import Input from "../UI/Input/Input";
+import Navbar from "../UI/Header/Header";
 import "./Signup.css";
 
 const SignUp = props => {
